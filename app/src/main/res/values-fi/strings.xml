@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lähennystasot</string>
+    <string name="hello_world">Terve maailma!</string>
+    <string name="action_settings">Asetukset</string>
+</resources>
